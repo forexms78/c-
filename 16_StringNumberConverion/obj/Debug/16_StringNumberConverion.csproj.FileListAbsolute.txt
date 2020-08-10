@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\HelloWorld\16_StringNumberConverion\bin\Debug\16_StringNumberConverion.exe.config
+C:\Users\Administrator\source\repos\HelloWorld\16_StringNumberConverion\bin\Debug\16_StringNumberConverion.exe
+C:\Users\Administrator\source\repos\HelloWorld\16_StringNumberConverion\bin\Debug\16_StringNumberConverion.pdb
+C:\Users\Administrator\source\repos\HelloWorld\16_StringNumberConverion\obj\Debug\16_StringNumberConverion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HelloWorld\16_StringNumberConverion\obj\Debug\16_StringNumberConverion.exe
+C:\Users\Administrator\source\repos\HelloWorld\16_StringNumberConverion\obj\Debug\16_StringNumberConverion.pdb

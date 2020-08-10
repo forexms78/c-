@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\HelloWorld\02_IntegerLiterals\bin\Debug\02_IntegerLiterals.exe.config
+C:\Users\Administrator\source\repos\HelloWorld\02_IntegerLiterals\bin\Debug\02_IntegerLiterals.exe
+C:\Users\Administrator\source\repos\HelloWorld\02_IntegerLiterals\bin\Debug\02_IntegerLiterals.pdb
+C:\Users\Administrator\source\repos\HelloWorld\02_IntegerLiterals\obj\Debug\02_IntegerLiterals.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HelloWorld\02_IntegerLiterals\obj\Debug\02_IntegerLiterals.exe
+C:\Users\Administrator\source\repos\HelloWorld\02_IntegerLiterals\obj\Debug\02_IntegerLiterals.pdb

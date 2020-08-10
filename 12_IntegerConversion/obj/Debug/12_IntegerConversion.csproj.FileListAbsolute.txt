@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\HelloWorld\12_IntegerConversion\bin\Debug\12_IntegerConversion.exe.config
+C:\Users\Administrator\source\repos\HelloWorld\12_IntegerConversion\bin\Debug\12_IntegerConversion.exe
+C:\Users\Administrator\source\repos\HelloWorld\12_IntegerConversion\bin\Debug\12_IntegerConversion.pdb
+C:\Users\Administrator\source\repos\HelloWorld\12_IntegerConversion\obj\Debug\12_IntegerConversion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HelloWorld\12_IntegerConversion\obj\Debug\12_IntegerConversion.exe
+C:\Users\Administrator\source\repos\HelloWorld\12_IntegerConversion\obj\Debug\12_IntegerConversion.pdb

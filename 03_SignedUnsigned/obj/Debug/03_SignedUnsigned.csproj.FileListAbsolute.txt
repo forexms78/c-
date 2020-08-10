@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\HelloWorld\03_SignedUnsigned\bin\Debug\03_SignedUnsigned.exe.config
+C:\Users\Administrator\source\repos\HelloWorld\03_SignedUnsigned\bin\Debug\03_SignedUnsigned.exe
+C:\Users\Administrator\source\repos\HelloWorld\03_SignedUnsigned\bin\Debug\03_SignedUnsigned.pdb
+C:\Users\Administrator\source\repos\HelloWorld\03_SignedUnsigned\obj\Debug\03_SignedUnsigned.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HelloWorld\03_SignedUnsigned\obj\Debug\03_SignedUnsigned.exe
+C:\Users\Administrator\source\repos\HelloWorld\03_SignedUnsigned\obj\Debug\03_SignedUnsigned.pdb

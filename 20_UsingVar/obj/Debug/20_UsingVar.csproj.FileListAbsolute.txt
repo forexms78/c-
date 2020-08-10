@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\HelloWorld\20_UsingVar\obj\Debug\20_UsingVar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HelloWorld\20_UsingVar\bin\Debug\20_UsingVar.exe.config
+C:\Users\Administrator\source\repos\HelloWorld\20_UsingVar\bin\Debug\20_UsingVar.exe
+C:\Users\Administrator\source\repos\HelloWorld\20_UsingVar\bin\Debug\20_UsingVar.pdb
+C:\Users\Administrator\source\repos\HelloWorld\20_UsingVar\obj\Debug\20_UsingVar.exe
+C:\Users\Administrator\source\repos\HelloWorld\20_UsingVar\obj\Debug\20_UsingVar.pdb
